@@ -28,7 +28,7 @@ twitter_username: mertcankarsi
 github_username: mckarsi
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 # Exclude from processing.
