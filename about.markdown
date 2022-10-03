@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there. My name's Mert.
+Hi there. My name's Mertcan.
 
 I post here about technical challenges that I faced and of course solutions. Sometimes I share things from my daily life.
 
